@@ -1,0 +1,5 @@
+# Sample Input 1
+0Hello123World456
+
+# Sample Input 2
+ouo-1qaq-20u0-3+123
